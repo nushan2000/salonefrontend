@@ -63,7 +63,7 @@ function CustomerPage() {
         <button className='bu' onClick={handleLogout}>Log Out</button>
         <div className='group3'></div>
         <div className='lk'> 
-          <h1 className="font-title81">Welcome</h1>
+          <h1 className="font-title81">Welcomee</h1>
           <h1>{userInfo.name}</h1>
           <p>Email: {userInfo.email}</p>
         </div>
